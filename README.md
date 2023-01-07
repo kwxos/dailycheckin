@@ -37,7 +37,9 @@
 
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 此声明，请仔细阅读***
 
-
+```
+curl https://raw.githubusercontents.com/kwxos/dailycheckin/main/docker_start.sh | bash
+```
 ## 阿里云盘资源分享
 
 - 「DC 系列」[https://www.aliyundrive.com/s/mYg8ZAZLjzg](https://www.aliyundrive.com/s/mYg8ZAZLjzg)
